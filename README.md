@@ -7,6 +7,8 @@ This projects will help you with a local server that auto refreshes the web brow
 
 ## Helpers
 
+This is a link to W3 Schools: https://www.w3schools.com/html
+
 Run this in your **source-code** folder to generate a list of folders with topics for you to dicover **about HTML**.
 
 ```
